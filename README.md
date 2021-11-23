@@ -17,7 +17,7 @@
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@orozCoding](https://github.com/orozCoding)
-- Twitter: [@twitterhandle](https://twitter.com/orozCoding)
+- Twitter: [@orozCoding](https://twitter.com/orozCoding)
